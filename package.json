@@ -1,0 +1,26 @@
+{
+  "name": "red-ant-tech-test-nodejs",
+  "version": "1.0.0",
+  "description": "Bootstrap project for use within the Red Ant NodeJS Technical Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retailos/red-ant-tech-test-nodejs.git"
+  },
+  "author": "Red Ant Digital Limited",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retailos/red-ant-tech-test-nodejs/issues"
+  },
+  "homepage": "https://github.com/retailos/red-ant-tech-test-nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  }
+}
